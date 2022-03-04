@@ -12,7 +12,7 @@ While it is generally accepted that climate change is occurring in the world, it
 
 I pulled multiple datasets on related environmental topics and utilized Tableau to compare different features of each set since they all shared some of the same locations.  The data compares different individual country's percentage of protected lands, climate risks, emissions statistics, and scores for amounts of endangered species.  I was then able to create graphs to examine and present how these things all interact with each other and correlate.
 
-I used datasets specifically from the Organisation for Economic Co-Operation and Development (OECD) and from UN Environmental Program datasets like ProtectedPlanet.  The OECD collects data on biodiversity and different environmental factors to help countries create and implement effective policies relating to these problems.  The UN Environmental Program additionally collects data on climate, nature, pollution, emissions, risks to help their members make decisions based on the most accurate data possible.  Though I'm not personally making decisions on any of these things as I'm not a politician, I do think that the environment is extremely important and changes have to be happening on the nation-level to actually make an impact on the world.  INdividual people can do what they can, but until countries actively make a decision to improve their global impact, it will be very difficult if not impossible to stop the negative trends.
+I used datasets specifically from the Organisation for Economic Co-Operation and Development (OECD) and from UN Environmental Program datasets like ProtectedPlanet.  The OECD collects data on biodiversity and different environmental factors to help countries create and implement effective policies relating to these problems.  The UN Environmental Program additionally collects data on climate, nature, pollution, emissions, risks to help their members make decisions based on the most accurate data possible.  Though I'm not personally making decisions on any of these things as I'm not a politician, I do think that the environment is extremely important and changes have to be happening on the nation-level to actually make an impact on the world.  Individual people can do what they can, but until countries actively make a decision to improve their global impact, it will be very difficult if not impossible to stop the negative trends.
 
 ## Initial Questions
 
@@ -57,7 +57,7 @@ I then shifted focuses and decided to look at the protected lands that each coun
 <img src="https://hggorel.github.io/Project4/assets/images/Graph10.PNG" width="750" height="550">
 (Fig 6 - Bar graph depicting the amounts of protected lands as of 2018 in different countries, scores in relative terms of the total protected lands versus the amount of total land of the country)
 
-The organization that collected this data used a relative scoring evaluation instead of just the direct amount of land protected to make sure that it wouldn't be skewed by just the sheer size of each individual country.  So percentages of the total land of the country were used to assign a score.  However, we can see that the countries with the highest amounts of protected lands are not necessarily familiar names from earlier in the research, they aren't the largest or most impactful countries.
+The organization that collected this data used a relative scoring evaluation instead of just the direct amount of land protected to make sure that it wouldn't be skewed by just the sheer size of each individual country.  So percentages of the total land of the country were used to assign a score.  However, we can see that the countries with the highest amounts of protected lands are not necessarily familiar names from earlier in the research, they aren't the largest or most impacting countries.
 
 <img src="https://hggorel.github.io/Project4/assets/images/Graph7.PNG" width="750" height="550">
 (Fig 7 - This scatter plot compares the different scores assigned by the OECD of each country in terms of amounts of endangered species in the year 2020.  The color compares the endangered species to amounts of protected lands as the light blue represents higher protected areas, while dark represents less protected lands, to look for a possible correlation there)
@@ -69,7 +69,7 @@ The last piece of new data that I looked at was the different amounts of endange
 After looking at a lot of the statistics from a more global view looking for specific trends in all of them, I decided to more closely examine a few specific countries.  As we saw in the emissions graph, Brazil, China, the EU, India, Japan, Russia and the United States all had the highest emissions on record in 2018.  In further exploration of these countries in particular I was hoping to see a trend in these countries decisions or impacts that could make them have the highest emissions.
 
 <img src="https://hggorel.github.io/Project4/assets/images/Graph9.PNG" width="650" height="450">
-(Fig 8 - This multi-bar chart breaks and compares the biggest contribution areas to each countries emissions in the 2018 reportings, the main categories being Energy, Electricity/Power and Industrial Processes) 
+(Fig 8 - This multi-bar chart breaks and compares the biggest contribution areas to each countries emissions in the 2018 reporting, the main categories being Energy, Electricity/Power and Industrial Processes) 
 
 We can see that of these three main areas, Energy is the largest percentage of all of their emissions by far.  Even the countries with significantly less emissions follow in that trend of having Energy as the highest contributor.  This could help countries in their policy making to see where the highest amount of their impact is coming from.
 
@@ -100,4 +100,3 @@ Here are the data sets themselves as CSV's:
 
 Followed by a website used for further explanation of CRI rank:
 [CRI Rank](http://chartsbin.com/view/38628)
-
