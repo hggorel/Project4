@@ -35,14 +35,17 @@ The data was relatively easy to work with, the main problem being that different
 ### Emissions Over Time
 #### 2000
 <img src="https://hggorel.github.io/Project4/assets/images/Graph2Final.PNG" width="450" height="325">
+
 (Fig 1) The emissions recorded in 2000 for over 100 countries represented as a bubble graph with the largest bubbles and darkest color representing the most emissions
 
 #### 2010
 <img src="https://hggorel.github.io/Project4/assets/images/Graph3Final.PNG" width="450" height="325"> 
+
 (Fig 2) The emissions recorded in 2010 for over 100 countries presented as a bubble graph   
 
 #### 2018 
 <img src="https://hggorel.github.io/Project4/assets/images/Graph4Final.PNG" width="450" height="325"> 
+
 (Fig 3) The emissions recorded in 2018 for over 100 countries presented as a bubble graph    
 
 Over this 18 year time period we can see the emergence of China as the highest emission producing country while the United States fell out of first place, which is good.  It is important to note that the exact scale changes with each year.  The highest emissions recorded in 2000 were much lower than the highest emissions recorded in 2018, but the switch of countries producing the most is still relevant and could indicate a slight greater effort for preserving the environment and decreasing the negative environmental impact on the part of that country.  This is where I started looking into the different other factors and ratings that my data sets contained including Climate Risk Index (CRI), Endangered Species stats and Amounts of Protected Lands for each country.
