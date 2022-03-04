@@ -89,7 +89,10 @@ I found a few interesting conclusions from my explorations.  Contrary to my init
 
 ## Sources
 Here are the data sets themselves as CSV's:
-
+[Endangered Species](https://hggorel.github.io/Project4/assets/endangered_species.csv)
+[Emissions](https://hggorel.github.io/Project4/assets/historical_emissions.csv)
+[Protected Lands](https://hggorel.github.io/Project4/assets/protected_areas.csv)
+[CRI](https://hggorel.github.io/Project4/assets/climate_risk_data.csv)
 Followed by a website used for further explanation of CRI rank:
 [CRI Rank](http://chartsbin.com/view/38628)
 
