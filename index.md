@@ -33,7 +33,7 @@ The data was relatively easy to work with, the main problem being that different
 ## Discoveries & Insights
 
 ### Emissions Over Time
-| Year    | Graph <img width=1000/> |  Caption<img width=300/>  |
+| Year    | Graph |  Caption |
 | ----------- | ---------------------------- | ---------- |
 | 2000 | <img src="https://hggorel.github.io/Project4/assets/images/Graph2Final.PNG" width="450" height="325"> | (Fig 1) The emissions recorded in 2000 for over 100 countries represented as a bubble graph with the largest bubbles and darkest color representing the most emissions |
 | 2010 | <img src="https://hggorel.github.io/Project4/assets/images/Graph3Final.PNG" width="450" height="325">    |    (Fig 2) The emissions recorded in 2010 for over 100 countries presented as a bubble graph   |
