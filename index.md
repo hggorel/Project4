@@ -3,7 +3,7 @@
 
 ## Introduction
 
-While it is generally accepted that climate change is occurring in the world, it doesn't appear that the largest countries are making any great strides in terms of reducing their impact.  Over the past 20 years, numbers of emissions are only rising and are resulting in higher number of endangered species in those countries without any preventative increases of protected lands or other proactive actions.  
+While it is generally accepted that climate change is occurring in the world, it doesn't appear that the largest countries are making any great strides in terms of reducing their impact.  Over the past 20 years, numbers of emissions are only rising and are resulting in higher number of endangered species in those countries without any preventative increases of protected lands or other proactive actions.  It's important to note that there isn't a direct correlation between all of these factors, though endangered species numbers are getting larger they're location isn't totally related to countries with the most emissions.  There is a larger correlation than I hoped for between countries with high emissions and low environmental protections though.  Countries should be using environmental data like this to influence their policy decisions and halt their negative environmental impact, but it doesn't appear to be changing anything yet.
 
 <!-- - What is the core discovery you made, the most interesting thing that you can describe with this data? 
 - What will your supporting arguments be for your discovery? -->
@@ -85,7 +85,7 @@ We can see that of these three main areas, Energy is the largest percentage of a
 <img src="https://hggorel.github.io/Project4/assets/images/Graph6FinalActual.PNG" width="650" height="450">
 (Fig 9 - This multi-bar chart breaks down the factors that went into the CRI rating specifically for each of the high emission countries to see if the emissions relate to any of those factors)
 
-I then specifically looked into the CRI rank of the high impact countries.  There wasn't a direct correlation here at all, some had a very high rank while some had a very low rank.  It also was able to be split into two of the factors that determine the rank.  One being the Fatalities per 100,000 of population and second being Losses per GDP %.  So this brings in population and economic statistics as well.
+I then specifically looked into the CRI rank of the high impact countries.  There wasn't a direct correlation here at all, some had a very high rank while some had a very low rank.  It also was able to be split into two of the factors that determine the rank, one being the Fatalities per 100,000 of population and second being Losses per GDP %.  So this brings in population and economic statistics as well as our existing environmental focus.  This shows that there isn't a strong correlation between emissions and the risk that a country has should climate change worsen.  So these countries aren't necessarily looking to the future to prevent further damage to themselves by lowering their emission levels, at least in the time frame examined here.
 
 <img src="https://hggorel.github.io/Project4/assets/images/Graph5Final.PNG" width="650" height="450">
 (Fig 10 - This line graph explores the years 2017-2021 comparing the specified countries who reported the largest emissions in 2018 to see if any preventative actions would be taken given their high negative environmental impact)
