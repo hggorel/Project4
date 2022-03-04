@@ -34,17 +34,17 @@ The data was relatively easy to work with, the main problem being that different
 
 ### Emissions Over Time
 #### 2000
-<img src="https://hggorel.github.io/Project4/assets/images/Graph2Final.PNG" width="450" height="325">
+<img src="https://hggorel.github.io/Project4/assets/images/Graph2Final.PNG" width="600" height="500">
 
 (Fig 1) The emissions recorded in 2000 for over 100 countries represented as a bubble graph with the largest bubbles and darkest color representing the most emissions
 
 #### 2010
-<img src="https://hggorel.github.io/Project4/assets/images/Graph3Final.PNG" width="450" height="325"> 
+<img src="https://hggorel.github.io/Project4/assets/images/Graph3Final.PNG" width="600" height="500"> 
 
 (Fig 2) The emissions recorded in 2010 for over 100 countries presented as a bubble graph   
 
 #### 2018 
-<img src="https://hggorel.github.io/Project4/assets/images/Graph4Final.PNG" width="450" height="325"> 
+<img src="https://hggorel.github.io/Project4/assets/images/Graph4Final.PNG" width="600" height="500"> 
 
 (Fig 3) The emissions recorded in 2018 for over 100 countries presented as a bubble graph    
 
