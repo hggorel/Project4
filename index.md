@@ -33,6 +33,28 @@ or lands then they're actively trying to counteract their negative impact (more 
 
 ## Discoveries & Insights
 
+### Emissions Over Time
+| 2010    | 2014 |  2018  |
+| ----------- | ----------- | ---------- |
+| <img src="https://hggorel.github.io/Project4/assets/images/Graph2.PNG" width="450" height="325"> | <img src="https://hggorel.github.io/Project4/assets/images/Graph3.PNG" width="450" height="325">       |    <img src="https://hggorel.github.io/Project4/assets/images/Graph4.PNG" width="450" height="325">        |
+| Caption     |  Caption    | Caption    |
+
+### World View
+<img src="https://hggorel.github.io/Project4/assets/images/Graph1.PNG" width="650" height="450">
+
+<img src="https://hggorel.github.io/Project4/assets/images/Graph8.PNG" width="650" height="450">
+
+<img src="https://hggorel.github.io/Project4/assets/images/Graph10.PNG" width="650" height="450">
+
+<img src="https://hggorel.github.io/Project4/assets/images/Graph7.PNG" width="650" height="450">
+
+<img src="https://hggorel.github.io/Project4/assets/images/Graph5.PNG" width="450" height="325">
+
+<img src="https://hggorel.github.io/Project4/assets/images/Graph6Captioned.PNG" width="450" height="325">
+
+<img src="https://hggorel.github.io/Project4/assets/images/Graph9.PNG" width="450" height="325">
+
+
 Images should be large and easy to see and interperate. 
 Captions underneath should be 20-70 words long.
 
