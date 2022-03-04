@@ -1,19 +1,18 @@
-# Climate Change Impacting Country's Decisions?
+# Is Climate Change Influencing/Impacting Country's Decisions?
 ### By: Hannah Gorel
 
 ## Introduction
+
+While it is generally accepted that climate change is occurring in the world, it doesn't appear that the largest countries are making any great strides in terms of reducing their impact.  Over the past 20 years, numbers of emissions are only rising and are resulting in higher number of endangered species in those countries without any preventative increases of protected lands or other proactive actions.  
 
 - What is the core discovery you made, the most interesting thing that you can describe with this data? 
 - What will your supporting arguments be for your discovery?
 
 ## Dataset
 
-I pulled multiple datasets and effectively combined them into one larger dataset since they were all related.  The data is comparing individual country's percentage of protected lands, climate change risk, emissions statistics, and how these things all interact with each other and possible repurcussions of certain things.
+I pulled multiple datasets on related environmental topics and utilized Tableau to compare different features of each set since they all shared some of the same locations.  The data compares different individual country's percentage of protected lands, climate risks, emissions statistics, and scores for amounts of endangered species.  I was then able to create graphs to examine and present how these things all interact with each other and correlate.
 
-I used datasets specifically from the OECD and UN Environmental Program datasets like ProtectedPlanet and others.  The data is about either the environmental 
-- What is this data about?
-- Who collected or produced this dataset? Why?
-- Why are you interested in it?
+I used datasets specifically from the Organisation for Economic Co-Operation and Development (OECD) and from UN Environmental Program datasets like ProtectedPlanet.  The OECD collects data on biodiversity and different environmental factors to help countries create and implement effective policies relating to these problems.  The UN Environmental Program additionally collects data on climate, nature, pollution, emissions, risks to help their members make decisions based on the most accurate data possible.  Though I'm not personally making decisions on any of these things as I'm not a politician, I do think that the environment is extremely important and changes have to be happening on the nation-level to actually make an impact on the world.  INdividual people can do what they can, but until countries actively make a decision to improve their global impact, it will be very difficult if not impossible to stop the negative trends.
 
 ## Initial Questions
 
@@ -26,10 +25,10 @@ and the environmental choices country's are making has on our lives and future g
 
 These questions would help to see if there is a correlation between any of these factors.  If country's with high emissions also are protecting large percentages
 or lands then they're actively trying to counteract their negative impact (more risk leading to more protections).  However, if country's with high emissions have the lowest amount of protections then it would imply less concern with the environment's health.  Additionally, "climate risk" being how much a country stands to lose if climate change worsens, are country's being preventative early if they stand to lose more than others?
-  
-- What questions came up as you worked with the data? 
-- Was there anything that surprised you about the data?
-- Was it easy to work with or did you have to clean or "wrangle" the data?
+
+As I started to work with the data I was able to conclude that in the past few years the countries with the highest emissions reported in 2018 did not make any significant increases to their amounts of "protected" lands.  In fact, the country with the highest emissions has the second to least percentage of protected lands.  In my investigation of the second two questions I was led to look into the relationships between the amount of endangered species in particular countries along with their recorded emissions and CRI rank.  The Climate Risk Index (CRI) rank evaluates the amount of impact that the environmental anomalies or extremities had on individual countries.  So I began looking into whether having a high CRI rank would impact the country's decisions or emissions.  In that exploration, after having a general world-view on most of the comparisons I looked specifically into the few countries who reported the highest emissions in 2018 (the latest dates that the catalogue had).
+
+The data was relatively easy to work with, the main problem being that different data sets had slightly different countries included in their collections.  So I had to be careful to directly compare and look specifically into countries that were included on multiple data sets to have the most amount of comparisons available to me.
 
 ## Discoveries & Insights
 
@@ -55,7 +54,7 @@ Over this 18 year time period we can see the emergence of China as the highest e
 <img src="https://hggorel.github.io/Project4/assets/images/Graph7.PNG" width="750" height="550">
 (Fig 7 - This scatter plot compares the different scores assigned by the OECD of each country in terms of amounts of endangered species in the year 2020.  The color compares the endangered species to amounts of protected lands as the light blue represents higher protected areas, while dark represents less protected lands, to look for a possible correlation there)
 
-### A Closer Look at Highest Impacting Countries
+### A Closer Look at Highest Emission Countries
 
 As we saw in the emissions graph, a few specific countries had the most emissions recorded in 2018.  Brazil, China, the EU, India, Japan, Russia and the United States all had the highest emissions on record.  
 
@@ -70,7 +69,7 @@ As we saw in the emissions graph, a few specific countries had the most emission
 
 ## Conclusion
 
-Final summary of the data and what you found during this project.
+I found a few interesting conclusions from my explorations.  Contrary to my initial hope/belief, most of the countries reported with the highest emissions do not have high percentages of protected environmental areas.  They do not take those preventative steps, however, they do not all have the highest numbers of endangered species so that's not a direct correlation.  So factors other than emissions are contributing to the endangered species in different countries.  Additionally, the CRI rank of countries does not correlate to a lower emission amount to decrease the impact on climate change.  Which wasn't entirely surprising but does show that not all of the countries who have been heavily impacted and thus could stand to be impacted again if climate change worsens are making a large successful effort to decrease their environmental impact.
 
 ## Sources
 
