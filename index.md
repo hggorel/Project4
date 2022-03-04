@@ -63,7 +63,7 @@ We can see here that the lighter blue circles are typically quite large, while m
 
 I then shifted focuses and decided to look at the protected lands that each country has set aside to preserve biodiversity and natural resources.  
 
-<img src="https://hggorel.github.io/Project4/assets/images/Graph10Final.PNG" width="750" height="550">
+<img src="https://hggorel.github.io/Project4/assets/images/Graph10FinalActual.PNG" width="750" height="550">
 (Fig 6 - Bar graph depicting the amounts of protected lands as of 2018 in different countries, scores in relative terms of the total protected lands versus the amount of total land of the country)
 
 The organization that collected this data used a relative scoring evaluation instead of just the direct amount of land protected to make sure that it wouldn't be skewed by just the sheer size of each individual country.  So percentages of the total land of the country were used to assign a score.  However, we can see that the countries with the highest amounts of protected lands are not necessarily familiar names from earlier in the research, they aren't the largest or most impacting countries.
@@ -77,12 +77,12 @@ The last piece of new data that I looked at was the different amounts of endange
 
 After looking at a lot of the statistics from a more global view looking for specific trends in all of them, I decided to more closely examine a few specific countries.  As we saw in the emissions graph, Brazil, China, the EU, India, Japan, Russia and the United States all had the highest emissions on record in 2018.  In further exploration of these countries in particular I was hoping to see a trend in these countries decisions or impacts that could make them have the highest emissions.
 
-<img src="https://hggorel.github.io/Project4/assets/images/Graph9Final.PNG" width="650" height="450">
+<img src="https://hggorel.github.io/Project4/assets/images/Graph9FinalActual.PNG" width="650" height="450">
 (Fig 8 - This multi-bar chart breaks and compares the biggest contribution areas to each countries emissions in the 2018 reporting, the main categories being Energy, Electricity/Power and Industrial Processes) 
 
 We can see that of these three main areas, Energy is the largest percentage of all of their emissions by far.  Even the countries with significantly less emissions follow in that trend of having Energy as the highest contributor.  This could help countries in their policy making to see where the highest amount of their impact is coming from.
 
-<img src="https://hggorel.github.io/Project4/assets/images/Graph6CaptionedFinal.PNG" width="650" height="450">
+<img src="https://hggorel.github.io/Project4/assets/images/Graph6FinalActual.PNG" width="650" height="450">
 (Fig 9 - This multi-bar chart breaks down the factors that went into the CRI rating specifically for each of the high emission countries to see if the emissions relate to any of those factors)
 
 I then specifically looked into the CRI rank of the high impact countries.  There wasn't a direct correlation here at all, some had a very high rank while some had a very low rank.  It also was able to be split into two of the factors that determine the rank.  One being the Fatalities per 100,000 of population and second being Losses per GDP %.  So this brings in population and economic statistics as well.
