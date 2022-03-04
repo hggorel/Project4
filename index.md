@@ -36,35 +36,37 @@ or lands then they're actively trying to counteract their negative impact (more 
 ### Emissions Over Time
 | Year    | Graph <img width=1000/> |  Caption<img width=300/>  |
 | ----------- | ---------------------------- | ---------- |
-| 2000 | <img src="https://hggorel.github.io/Project4/assets/images/Graph2.PNG" width="450" height="325"> | (Fig 2) The emissions recorded in 2000 for over 100 countries represented as a bubble graph with the largest bubbles and darkest color representing the most emissions |
-| 2010 | <img src="https://hggorel.github.io/Project4/assets/images/Graph3.PNG" width="450" height="325">    |    (Fig 3) The emissions recorded in 2010 for over 100 countries presented as a bubble graph   |
-| 2018 | <img src="https://hggorel.github.io/Project4/assets/images/Graph4.PNG" width="450" height="325"> | (Fig 4) The emissions recorded in 2018 for over 100 countries presented as a bubble graph    |
+| 2000 | <img src="https://hggorel.github.io/Project4/assets/images/Graph2.PNG" width="450" height="325"> | (Fig 1) The emissions recorded in 2000 for over 100 countries represented as a bubble graph with the largest bubbles and darkest color representing the most emissions |
+| 2010 | <img src="https://hggorel.github.io/Project4/assets/images/Graph3.PNG" width="450" height="325">    |    (Fig 2) The emissions recorded in 2010 for over 100 countries presented as a bubble graph   |
+| 2018 | <img src="https://hggorel.github.io/Project4/assets/images/Graph4.PNG" width="450" height="325"> | (Fig 3) The emissions recorded in 2018 for over 100 countries presented as a bubble graph    |
 
 Over this 18 year time period we can see the emergence of China as the highest emission producing country while the United States fell out of first place, which is good.  It is important to note that the exact scale changes with each year.  The highest emissions recorded in 2000 were much lower than the highest emissions recorded in 2018, but the switch of countries producing the most is still relevant and could indicate a slight greater effort for preserving the environment and decreasing the negative environmental impact on the part of that country.  This is where I started looking into the different other factors and ratings that my data sets contained including Climate Risk Index (CRI), Endangered Species stats and Amounts of Protected Lands for each country.
 
 ### World View
 <img src="https://hggorel.github.io/Project4/assets/images/Graph1.PNG" width="750" height="550">
-(Fig 5) 
+(Fig 4 - Country's standings in terms of Climate Risk Index (CRI) ranks displayed as a geogrpahical map as of 2018.  The lighter colors indicate a higher risk rank, meaning that those countries were impact much higher by various climate change impacts such as weather and temperature anomalies)
 
 <img src="https://hggorel.github.io/Project4/assets/images/Graph8.PNG" width="750" height="550">
+(Fig 5 - This map graph compares the individual countries CRI rank with their emissions, both statistics from 2018. The size of the circle on each country represents their recorded emissions while the color of the circle (shades of blue) represents the rank with lighter colors indicating higher rank)
 
 <img src="https://hggorel.github.io/Project4/assets/images/Graph10.PNG" width="750" height="550">
+(Fig 6 - Bar graph depicting the amounts of protected lands as of 2018 in different countries, scores in relative terms of the total protected lands versus the amount of total land of the country.  
 
 <img src="https://hggorel.github.io/Project4/assets/images/Graph7.PNG" width="750" height="550">
+(Fig 7 - This scatter plot compares the different scores assigned by the OECD of each country in terms of amounts of endangered species in the year 2020.  The color compares the endangered species to amounts of protected lands as the light blue represents higher protected areas, while dark represents less protected lands, to look for a possible correlation there)
 
 ### A Closer Look at Highest Impacting Countries
 
 As we saw in the emissions graph, a few specific countries had the most emissions recorded in 2018.  Brazil, China, the EU, India, Japan, Russia and the United States all had the highest emissions on record.  
 
-<img src="https://hggorel.github.io/Project4/assets/images/Graph5.PNG" width="450" height="325">
+<img src="https://hggorel.github.io/Project4/assets/images/Graph9.PNG" width="650" height="450">
+(Fig 8 - This multi-bar chart breaks and compares the biggest contribution areas to each countries emissions in the 2018 reportings, the main categories being Energy, Electricity/Power and Industrial Processes) 
 
-<img src="https://hggorel.github.io/Project4/assets/images/Graph6Captioned.PNG" width="450" height="325">
+<img src="https://hggorel.github.io/Project4/assets/images/Graph6Captioned.PNG" width="650" height="450">
+(Fig 9 - This multi-bar chart breaks down the factors that went into the CRI rating specifically for each of the high emission countries to see if the emissions relate to any of those factors)
 
-<img src="https://hggorel.github.io/Project4/assets/images/Graph9.PNG" width="450" height="325">
-
-
-Images should be large and easy to see and interperate. 
-Captions underneath should be 20-70 words long.
+<img src="https://hggorel.github.io/Project4/assets/images/Graph5.PNG" width="650" height="450">
+(Fig 10 - This line graph explores the years 2017-2021 comparing the specified countries who reported the largest emissions in 2018 to see if any preventative actions would be taken given their high negative environmental impact)
 
 ## Conclusion
 
