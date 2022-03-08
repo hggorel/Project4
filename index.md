@@ -87,7 +87,7 @@ We can see that of these three main areas, Energy is the largest percentage of a
 
 I then specifically looked into the CRI rank of the high impact countries.  There wasn't a direct correlation here at all, some had a very high rank while some had a very low rank.  It also was able to be split into two of the factors that determine the rank, one being the Fatalities per 100,000 of population and second being Losses per GDP %.  So this brings in population and economic statistics as well as our existing environmental focus.  This shows that there isn't a strong correlation between emissions and the risk that a country has should climate change worsen.  So these countries aren't necessarily looking to the future to prevent further damage to themselves by lowering their emission levels, at least in the time frame examined here.
 
-<img src="https://hggorel.github.io/Project4/assets/images/Graph5Final.PNG" width="650" height="450">
+<img src="https://hggorel.github.io/Project4/assets/images/Graph5Actual.PNG" width="650" height="450">
 (Fig 10 - This line graph explores the years 2017-2021 comparing the specified countries who reported the largest emissions in 2018 to see if any preventative actions would be taken given their high negative environmental impact)
 
 I then looked into the amount of protected areas over time of these countries to hopefully see an increase following their 2018 year of very high emissions.  However, this did not end up panning out, we can see that China which had the highest emissions has barely any protected lands.  The lines are practically flat showing that the countries did not take any preventative steps to counteract their extremely high emissions from the previous years.
